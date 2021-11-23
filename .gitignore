@@ -1,6 +1,11 @@
 .pdf
 .html
 
+.csv
+.xls
+.xlsx
+
+*-checkpoint
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,pycharm,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,pycharm,jupyternotebooks
